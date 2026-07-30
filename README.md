@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
