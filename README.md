@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
