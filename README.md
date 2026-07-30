@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
