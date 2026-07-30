@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0048-rotate-image) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
