@@ -75,12 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
