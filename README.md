@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
 | ------- |
