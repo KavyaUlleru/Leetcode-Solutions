@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
 ## Stack
 |  |
 | ------- |
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
