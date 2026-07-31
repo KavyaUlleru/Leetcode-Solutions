@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 ## Stack
 |  |
 | ------- |
