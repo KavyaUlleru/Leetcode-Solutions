@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0263-ugly-number) |
 ## Stack
 |  |
 | ------- |
