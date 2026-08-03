@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Design
 |  |
 | ------- |
