@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
