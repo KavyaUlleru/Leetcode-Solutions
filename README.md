@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
