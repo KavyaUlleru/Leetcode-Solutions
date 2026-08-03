@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/KavyaUlleru/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
 | ------- |
